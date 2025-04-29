@@ -70,6 +70,8 @@ The data was visualized using:
 * **Excel Dashboards:** For initial data exploration and summary.
 
   [Dashdoard](https://github.com/edigasreelekha/kulturehire-project/blob/main/Excel%20gen%20z%20%20Dashboard.png)
+
+  ![Excel Dashboard](https://github.com/edigasreelekha/kulturehire-project/blob/main/Excel%20gen%20z%20%20Dashboard.png)
   
 * **Power BI Dashboards:** For interactive and in-depth analysis of Gen Z work trends, managerial dynamics, and learning aspirations.
   
