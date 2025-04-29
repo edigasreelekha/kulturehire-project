@@ -43,8 +43,7 @@ The project also acknowledges challenges such as stereotypes about Gen Z in the 
 
 ## Data Collection
  
-  [Data](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20csv.csv)
-Data was collected through a survey.
+   Data was collected through a survey.
 
 The survey included questions about:
 
@@ -53,6 +52,10 @@ The survey included questions about:
 * Job priorities (salary, work-life balance, etc.)
 * IT skill acquisition
 * Motivations for pursuing IT careers.
+
+
+ [Data Source](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20csv.csv)
+
 
 ## Data Analysis
 
@@ -75,9 +78,18 @@ The data was visualized using:
   
 * **Power BI Dashboards:** For interactive and in-depth analysis of Gen Z work trends, managerial dynamics, and learning aspirations.
   
-[managerial Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20Z%20Aspirations%20presentation.pptx)
+[managerial Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20%20Manager%20Based%20dashboard.png)
+
+![Dashboard](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20%20Manager%20Based%20dashboard.png)
+
 [Missino Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20Mission%20based%20dashboard.png)
+
+![Dashboard](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20Mission%20based%20dashboard.png)
+
 [Aspirational Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20aspirational%20job%20dashboard.png)
+
+![Dashboard](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20aspirational%20job%20dashboard.png)
+
 
 ## Insights 
 
