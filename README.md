@@ -42,7 +42,8 @@ The project addresses the significant changes Gen Z is driving in IT, including:
 The project also acknowledges challenges such as stereotypes about Gen Z in the workplace.
 
 ## Data Collection
-  [Data]()
+ 
+  [Data](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20csv.csv)
 Data was collected through a survey.
 
 The survey included questions about:
@@ -66,8 +67,15 @@ SQL was used to analyze the survey data.
 
 The data was visualized using:
 
-* **Excel Dashboards:** For initial data exploration and summary.[Dashdoard]()
-* **Power BI Dashboards:** For interactive and in-depth analysis of Gen Z work trends, managerial dynamics, and learning aspirations.[Dashboards]()
+* **Excel Dashboards:** For initial data exploration and summary.
+
+  [Dashdoard](https://github.com/edigasreelekha/kulturehire-project/blob/main/Excel%20gen%20z%20%20Dashboard.png)
+  
+* **Power BI Dashboards:** For interactive and in-depth analysis of Gen Z work trends, managerial dynamics, and learning aspirations.
+  
+[managerial Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20Z%20Aspirations%20presentation.pptx)
+[Missino Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20Mission%20based%20dashboard.png)
+[Aspirational Dashboards](https://github.com/edigasreelekha/kulturehire-project/blob/main/Gen%20z%20aspirational%20job%20dashboard.png)
 
 ## Insights 
 
@@ -89,8 +97,25 @@ The analysis revealed insights into Gen Z's career aspirations, including:
 
 ## Contributing
 
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-## License  [MIT License]()
+1.  **Fork the repository.**
+2.  **Create a new branch** for your feature or bug fix.
+3.  **Make your changes.**
+4.  **Test your changes thoroughly.**
+5.  **Submit a pull request** with a clear description of your changes.
+
+**Guidelines:**
+
+* Please follow the existing code style. *(If you have a specific style guide, mention it here.)*
+* Ensure your changes do not break existing functionality.
+* Include relevant documentation updates if necessary.
+
+We appreciate your contributions!
+
+
+## License  
+[MIT License](https://github.com/edigasreelekha/License)
 
 ## Contact
 
