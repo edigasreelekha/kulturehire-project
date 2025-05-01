@@ -136,3 +136,7 @@ We appreciate your contributions!
 sriekhagowd8@gmail.com
 
 Ediga sreelekha
+
+##   Acknowledgments
+
+* KULTUREHIRE (for providing the internship opportunity)
