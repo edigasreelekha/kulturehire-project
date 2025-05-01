@@ -3,8 +3,7 @@
 # Gen Z Career Aspirations Analysis
 
 ## Overview
-
-This project analyzes the career aspirations of Generation Z, focusing on their motivations, preferences, and impact on the IT industry. Generation Z, born between 1997 and 2012, is rapidly becoming a dominant force in the workforce, and understanding their expectations is crucial for employers and the future of work.
+This project was completed during a Data Analytics Internship at KULTUREHIRE. The project focused on analyzing Gen Z's perspectives and influence on the IT sector, specifically regarding their skills, expectations, adoption of innovation, attitudes towards AI integration, and the rising demand for data-driven roles.
 
 The analysis is based on data collected through a survey and visualized using Excel, SQL, and Power BI.
 
